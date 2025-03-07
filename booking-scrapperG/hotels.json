@@ -1,0 +1,217 @@
+[
+  {
+    "url": "https://www.booking.com/hotel/gb/gardencourthotel.html",
+    "price": [
+      {
+        "__typename": "AvailabilityCalendarDay",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0175",
+        "checkin": "2025-03-30",
+        "available": true
+      },
+      {
+        "checkin": "2025-03-31",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0194",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "__typename": "AvailabilityCalendarDay",
+        "checkin": "2025-03-10",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0168",
+        "available": true
+      },
+      {
+        "available": true,
+        "__typename": "AvailabilityCalendarDay",
+        "checkin": "2025-04-01",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0211"
+      },
+      {
+        "available": true,
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0178",
+        "checkin": "2025-03-11",
+        "__typename": "AvailabilityCalendarDay"
+      },
+      {
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0179",
+        "checkin": "2025-03-12",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "available": true,
+        "__typename": "AvailabilityCalendarDay",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-24",
+        "avgPriceFormatted": "\u20ac\u00a0181"
+      },
+      {
+        "avgPriceFormatted": "\u20ac\u00a0191",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-25",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-03",
+        "avgPriceFormatted": "\u20ac\u00a0139",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0203",
+        "checkin": "2025-03-26",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "__typename": "AvailabilityCalendarDay",
+        "avgPriceFormatted": "\u20ac\u00a0178",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-04",
+        "available": true
+      },
+      {
+        "avgPriceFormatted": "\u20ac\u00a0203",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-27",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "avgPriceFormatted": "\u20ac\u00a0181",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-05",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "available": true,
+        "__typename": "AvailabilityCalendarDay",
+        "checkin": "2025-03-28",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0242"
+      },
+      {
+        "available": true,
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-06",
+        "avgPriceFormatted": "\u20ac\u00a0192",
+        "__typename": "AvailabilityCalendarDay"
+      },
+      {
+        "available": true,
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-29",
+        "avgPriceFormatted": "\u20ac\u00a0253",
+        "__typename": "AvailabilityCalendarDay"
+      },
+      {
+        "__typename": "AvailabilityCalendarDay",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-07",
+        "avgPriceFormatted": "\u20ac\u00a0235",
+        "available": true
+      },
+      {
+        "__typename": "AvailabilityCalendarDay",
+        "checkin": "2025-03-08",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0235",
+        "available": true
+      },
+      {
+        "available": true,
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0159",
+        "checkin": "2025-03-09",
+        "__typename": "AvailabilityCalendarDay"
+      },
+      {
+        "checkin": "2025-03-20",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0199",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "available": true,
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0233",
+        "checkin": "2025-03-21",
+        "__typename": "AvailabilityCalendarDay"
+      },
+      {
+        "available": true,
+        "__typename": "AvailabilityCalendarDay",
+        "avgPriceFormatted": "\u20ac\u00a0239",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-22"
+      },
+      {
+        "available": true,
+        "__typename": "AvailabilityCalendarDay",
+        "checkin": "2025-03-23",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0175"
+      },
+      {
+        "__typename": "AvailabilityCalendarDay",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-13",
+        "avgPriceFormatted": "\u20ac\u00a0184",
+        "available": true
+      },
+      {
+        "available": true,
+        "__typename": "AvailabilityCalendarDay",
+        "avgPriceFormatted": "\u20ac\u00a0212",
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-14"
+      },
+      {
+        "available": true,
+        "minLengthOfStay": 1,
+        "checkin": "2025-03-15",
+        "avgPriceFormatted": "\u20ac\u00a0442",
+        "__typename": "AvailabilityCalendarDay"
+      },
+      {
+        "__typename": "AvailabilityCalendarDay",
+        "checkin": "2025-03-16",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0175",
+        "available": true
+      },
+      {
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0182",
+        "checkin": "2025-03-17",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "checkin": "2025-03-18",
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0190",
+        "__typename": "AvailabilityCalendarDay",
+        "available": true
+      },
+      {
+        "available": true,
+        "minLengthOfStay": 1,
+        "avgPriceFormatted": "\u20ac\u00a0191",
+        "checkin": "2025-03-19",
+        "__typename": "AvailabilityCalendarDay"
+      }
+    ]
+  }
+]
